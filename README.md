@@ -1,6 +1,6 @@
 README : 
 
-1. Install node latest version v9.2.1 (This shoukd have javascript6 which is required )
+1. Install node latest version v9.2.1 (This should have javascript6 which is required )
 2. git clone the master branch. (https://github.com/chzh1992/Fall17-CS5200-Sec02-Group17.git)
 3. Import the sql dump present from gitHub repository to MySql database (Trainly_Group17-final.sql)
 4. Change the username password for your database in mysql-config.js
